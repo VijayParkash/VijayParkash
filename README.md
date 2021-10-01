@@ -1,6 +1,9 @@
-👋 Hi,
--I'm Vijay
+👋 Hi
+
+I'm Vijay
+
 I'm interested in Front End Web Development 
+
 🌱 I’m currently learning React, JavaScript
 
 
